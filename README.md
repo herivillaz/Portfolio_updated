@@ -1,11 +1,13 @@
 # homework2
-## **This is my first portfolio**
+## **This is my updated portfolio**
 Welcome to my first Portfolio.
 ## This project was built with Bootstrap resources, including rows, columns, navbar, forms and style fonts and background. It's also accomplished by individual style on CSS, and icons taken from FontAwesome, a nice resource as Bootstrap and Google Fonts.
 
 * The index.html page looks like this:
 
 ![About Me](/assetsREADME/1589578361481.png)
+
+### You can access here: [Weather Dashboard](https://herivillaz.github.io/Portfolio_updated/)
 
 * As we can see it's provided by a Responsive Navbar 
 
