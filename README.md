@@ -7,7 +7,7 @@ Welcome to my first Portfolio.
 
 ![About Me](/assetsREADME/1589578361481.png)
 
-### You can access here: [Weather Dashboard](https://herivillaz.github.io/Portfolio_updated/)
+### You can access here: [Portfolio](https://herivillaz.github.io/Portfolio_updated/)
 
 * As we can see it's provided by a Responsive Navbar 
 
