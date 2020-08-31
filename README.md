@@ -1,4 +1,4 @@
-# homework2
+# Portfolio
 ## **This is my updated portfolio**
 Welcome to my first Portfolio.
 ## This project was built with Bootstrap resources, including rows, columns, navbar, forms and style fonts and background. It's also accomplished by individual style on CSS, and icons taken from FontAwesome, a nice resource as Bootstrap and Google Fonts.

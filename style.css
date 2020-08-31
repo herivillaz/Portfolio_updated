@@ -13,6 +13,7 @@ h1 {
     display:block;
     margin:auto;
     border-radius: 80px;
+    size: 100px;
 }
 
 /* /* .col-lg-6 {
@@ -54,10 +55,21 @@ body {
     display: block;
 
 }
+.textport {
+    font-family: 'Pathway Gothic One', sans-serif;
+    text-align: center;
+font-size: 30px
+}
+.texthome {
+    font-size: 25px;
+    font-family: 'Pathway Gothic One', sans-serif;
+    text-justify: auto;
+}
 
 form {
     margin: 30px;
     padding: 30px;
+    font-size: 25px;
 }
 
 @media (max-width: 500px) {
