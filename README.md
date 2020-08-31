@@ -5,7 +5,7 @@ Welcome to my first Portfolio.
 
 * The index.html page looks like this:
 
-![About Me](/assetsREADME/1589578361481.png)
+![About Me](/assetsREADME/homepage.png)
 
 ### You can access here: [Portfolio](https://herivillaz.github.io/Portfolio_updated/)
 
@@ -20,19 +20,23 @@ Welcome to my first Portfolio.
 
 * About Me contains the small Biography of Me (Heribert Villazana) plus responsive links to My social Networking, these links you will find also on Portfolio and Contact.
 
-![Biography and Social media](/assetsREADME/1589580893860.png)
-
 * **This is the portfolio section page**
 
-![Portfolio](/assetsREADME/1589581023750.png)
+![Portfolio](/assetsREADME/portfolio.png)
 
-* It contains images about an example of what is going to be my portfolio after I become a Full stack Web Developer.
+* It contains images about previews of my projects as a Full Stack web developers. by clicking of the images the users can look the descriptions and also go to the code and deployed versions.
+
+![Portfolio](/assetsREADME/modals.png)
 
 * **This is the Contact section page**
 
-![Contact](/assetsREADME/1589582566165.png)
+![Contact](/assetsREADME/contact.png)
 
 * It's integrated by a form composed of Name, email, message and of course a submit button to send this information. 
+
+* When the user click on the submit button is taken to their personal email to contact me.
+
+![Contact](/assetsREADME/email.png)
 
 * Every page also has a footer. Describing created for ... and a model of copyright.
 
@@ -42,6 +46,18 @@ Welcome to my first Portfolio.
 
 ![Small Windows](/assetsREADME/1589654684155.png)
 ![Md Windows](/assetsREADME/1589655038421.png)
+
+# Contribution
+If you would like to contribute please create an issue. Alternatively, clone this repo and make modifications to your copy.
+
+# Author
+* Heribert Villazana
+* Github: herivillaz
+
+![Repo Owner Image](https://avatars.githubusercontent.com/herivillaz?s=200)
+
+## Contact
+herivillaz@gmail.com
 
 * Hope you like my project. I would appreciate your feedback to make this better. Thank You.
 
