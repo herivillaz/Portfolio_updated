@@ -84,7 +84,13 @@ img {
     justify-content: space-around;
 }
 .title {
-    
+
+}
+.photo {
+    display:block;
+    margin:auto;
+    border-radius: 80px;
+    width: 50%;
 }
 
 @media (max-width: 500px) {
